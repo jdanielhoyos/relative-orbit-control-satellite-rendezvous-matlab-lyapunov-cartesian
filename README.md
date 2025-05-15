@@ -8,7 +8,7 @@ Simulates a **nonlinear deputy-chaser rendezvous mission** using **Lyapunov-base
 
 ## 📽️ Demo Video
 
-👉 [Watch on YouTube](https://www.youtube.com/watch?v=YOUR_VIDEO_LINK)
+👉 [Watch on YouTube]([https://www.youtube.com/watch?v=YOUR_VIDEO_LINK](https://www.youtube.com/watch?v=uv7CveoUqE0))
 
 ---
 
