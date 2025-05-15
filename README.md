@@ -22,9 +22,10 @@ Simulates a **nonlinear deputy-chaser rendezvous mission** using **Lyapunov-base
 - 🧮 Computes control effort: ∫‖u‖ dt
 - 🌑 Dark-themed visualizations
 
-📦 Requirements
-MATLAB R2020+
+## 📁 Files
 
-No additional toolboxes
-
-Works on Windows, macOS, or Linux
+| File                          | Description                                    |
+|-------------------------------|------------------------------------------------|
+| `run_relative_orbit_sim.m`    | Main script with editable parameters           |
+| `relativeOrbitSimOriginal.m`  | All-in-one engine with full simulation logic   |
+| `plot_Earth.m`                | Earth rendering function                       |
