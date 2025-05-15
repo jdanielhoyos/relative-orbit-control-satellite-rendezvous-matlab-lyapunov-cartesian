@@ -21,3 +21,10 @@ Simulates a **nonlinear deputy-chaser rendezvous mission** using **Lyapunov-base
 - 📊 Time-history plots: position, velocity, control input
 - 🧮 Computes control effort: ∫‖u‖ dt
 - 🌑 Dark-themed visualizations
+
+📦 Requirements
+MATLAB R2020+
+
+No additional toolboxes
+
+Works on Windows, macOS, or Linux
