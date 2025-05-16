@@ -2,13 +2,16 @@
 
 Simulates a **nonlinear deputy-chaser rendezvous mission** using **Lyapunov-based feedback control**, with 3D Earth-centered visualization and full orbit dynamics. Built in **pure MATLAB**, no toolboxes required.
 
-![orbit-demo](https://yourdomain.com/demo.gif) <!-- Optional: add GIF if available -->
 
 ---
 
 ## 📽️ Demo Video
 
 👉 [Watch on YouTube]https://www.youtube.com/watch?v=uv7CveoUqE0
+
+
+https://github.com/user-attachments/assets/cfa3160f-e7e4-4069-8d7c-42047dfd8262
+
 
 ---
 
