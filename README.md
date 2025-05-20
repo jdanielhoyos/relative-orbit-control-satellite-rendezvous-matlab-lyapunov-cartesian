@@ -30,5 +30,5 @@ https://github.com/user-attachments/assets/cfa3160f-e7e4-4069-8d7c-42047dfd8262
 | File                          | Description                                    |
 |-------------------------------|------------------------------------------------|
 | `run_relative_orbit_sim.m`    | Main script with editable parameters           |
-| `relativeOrbitSimOriginal.m`  | All-in-one engine with full simulation logic   |
+| `simulateRelativeOrbit.m`     | All-in-one engine with full simulation logic   |
 | `plot_Earth.m`                | Earth rendering function                       |
