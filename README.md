@@ -1,13 +1,13 @@
-# 🛰️ Satellite Rendezvous Simulation in MATLAB
+#  Satellite Rendezvous Simulation in MATLAB
 
 Simulates a **nonlinear deputy-chaser rendezvous mission** using **Lyapunov-based feedback control**, with 3D Earth-centered visualization and full orbit dynamics. Built in **pure MATLAB**, no toolboxes required.
 
 
 ---
 
-## 📽️ Demo Video
+##  Demo Video
 
-👉 [Watch on YouTube]https://www.youtube.com/watch?v=uv7CveoUqE0
+ [Watch on YouTube]https://www.youtube.com/watch?v=uv7CveoUqE0
 
 
 https://github.com/user-attachments/assets/cfa3160f-e7e4-4069-8d7c-42047dfd8262
@@ -15,17 +15,17 @@ https://github.com/user-attachments/assets/cfa3160f-e7e4-4069-8d7c-42047dfd8262
 
 ---
 
-## 📌 Features
+##  Features
 
-- 🚀 Nonlinear relative orbital dynamics (with gravity gradient)
-- ⚙️ Lyapunov control law: `u = -Kr·δr - Δa - P·δv`
-- 📉 Control saturation (e.g. 1 mm/s²)
-- 🌍 Animated 3D orbits with `plot_Earth`
-- 📊 Time-history plots: position, velocity, control input
-- 🧮 Computes control effort: ∫‖u‖ dt
-- 🌑 Dark-themed visualizations
+-  Nonlinear relative orbital dynamics (with gravity gradient)
+-  Lyapunov control law: `u = -Kr·δr - Δa - P·δv`
+-  Control saturation (e.g. 1 mm/s²)
+-  Animated 3D orbits with `plot_Earth`
+-  Time-history plots: position, velocity, control input
+-  Computes control effort: ∫‖u‖ dt
+-  Dark-themed visualizations
 
-## 📁 Files
+##  Files
 
 | File                          | Description                                    |
 |-------------------------------|------------------------------------------------|
